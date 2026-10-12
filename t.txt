@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Block Layout
+</title>
+<style>
+.container{
+border:1px solid blue;
+display:block;
+}
+.sec1{
+background-colour:red;
+}
+.sec2{
+background-colour:yellow;
+}
+.sec3{
+background-colour:green;
+}
+.sec4{
+background-colour:orange;
+}
+.sec5{
+background-colour:pink;
+}
+.sec6{
+background-colour:violet;
+}
+</head>
+<body>
+<div class="container">
+<div class="sec1">Section1</div>
+<div class="sec2">Section1</div>
+<div class="sec3">Section1</div>
+<div class="sec4">Section1</div>
+<div class="sec5">Section1</div>
+<div class="sec6">Section1</div>
+</div>
+</body>
+</html>
